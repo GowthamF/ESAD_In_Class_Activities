@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aqfft+H5zgx3KbyfGWiDdXFjNtq2MAGvEwgMjQ0kQ8asXJHD1qJfvOrvrvOb3j/qft9KTszN1gBgotgvQrQc3w==",
+  "dgSpecHash": "CiuF1ZVI6i9NQHYtZ5nQZyoQrRt1jAEbSkxl1oubstJj3W81UZeDBQ1V7lIT7JV6iunla+a4NITnU73Y0EPLyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Factory_Pattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
