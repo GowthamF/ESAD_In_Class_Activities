@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Factory_Pattern.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\Facotry_Pattern\\Factory_Pattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Factory_Pattern.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\Facotry_Pattern\\Factory_Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Factory_Pattern.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\Facotry_Pattern\\Factory_Pattern.csproj",
         "projectName": "Factory_Pattern",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Factory_Pattern.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\Facotry_Pattern\\Factory_Pattern.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\Facotry_Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
