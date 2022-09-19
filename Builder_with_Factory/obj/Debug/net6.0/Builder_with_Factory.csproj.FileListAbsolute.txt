@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\bin\Debug\net6.0\Builder_with_Factory.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\bin\Debug\net6.0\Builder_with_Factory.deps.json
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\bin\Debug\net6.0\Builder_with_Factory.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\bin\Debug\net6.0\Builder_with_Factory.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\bin\Debug\net6.0\ref\Builder_with_Factory.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\bin\Debug\net6.0\Builder_with_Factory.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\ref\Builder_with_Factory.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\Builder_with_Factory\obj\Debug\net6.0\Builder_with_Factory.genruntimeconfig.cache
