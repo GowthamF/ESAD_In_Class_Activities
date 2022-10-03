@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\bin\Debug\net6.0\Strategy_Pattern.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\bin\Debug\net6.0\Strategy_Pattern.deps.json
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\bin\Debug\net6.0\Strategy_Pattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\bin\Debug\net6.0\Strategy_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\bin\Debug\net6.0\ref\Strategy_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\bin\Debug\net6.0\Strategy_Pattern.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\ref\Strategy_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\Strategy_Pattern\obj\Debug\net6.0\Strategy_Pattern.genruntimeconfig.cache

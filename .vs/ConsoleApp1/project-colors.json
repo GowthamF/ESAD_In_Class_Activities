@@ -35,7 +35,17 @@
       "ProjectGuid": "e7f7d387-13ef-4c81-93dd-beeca2569d60",
       "DisplayName": "Builder_Pattern",
       "ColorIndex": 5
+    },
+    "89986674-6d2c-46f3-8073-df1a4494e31a": {
+      "ProjectGuid": "89986674-6d2c-46f3-8073-df1a4494e31a",
+      "DisplayName": "Command_Pattern",
+      "ColorIndex": 6
+    },
+    "3f06b26a-85cf-4fdd-85bd-c2744c3793de": {
+      "ProjectGuid": "3f06b26a-85cf-4fdd-85bd-c2744c3793de",
+      "DisplayName": "Strategy_Pattern",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }
