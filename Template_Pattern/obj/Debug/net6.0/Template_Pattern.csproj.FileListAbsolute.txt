@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\bin\Debug\net6.0\Template_Pattern.exe
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\bin\Debug\net6.0\Template_Pattern.deps.json
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\bin\Debug\net6.0\Template_Pattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\bin\Debug\net6.0\Template_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\bin\Debug\net6.0\ref\Template_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\bin\Debug\net6.0\Template_Pattern.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\Template_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\Template_Pattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\Template_Pattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\Template_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\Template_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\ref\Template_Pattern.dll
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\Template_Pattern.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\Template_Pattern\obj\Debug\net6.0\Template_Pattern.genruntimeconfig.cache
