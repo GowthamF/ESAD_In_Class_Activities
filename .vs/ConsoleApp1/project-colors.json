@@ -45,7 +45,17 @@
       "ProjectGuid": "3f06b26a-85cf-4fdd-85bd-c2744c3793de",
       "DisplayName": "Strategy_Pattern",
       "ColorIndex": 7
+    },
+    "baaf4847-306a-4da1-a5a4-19d2431a9d47": {
+      "ProjectGuid": "baaf4847-306a-4da1-a5a4-19d2431a9d47",
+      "DisplayName": "ChainOfResponsibility_Pattern",
+      "ColorIndex": 8
+    },
+    "2d3a4c19-c2ac-4d99-bfd1-069aa51330cd": {
+      "ProjectGuid": "2d3a4c19-c2ac-4d99-bfd1-069aa51330cd",
+      "DisplayName": "Template_Pattern",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }
